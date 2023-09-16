@@ -14,7 +14,7 @@ mv Memes/'Star Wars'/fafsa.jpg Memes/SpongeBob
 
 
 # Task 4
-rm Homework/CS191
+rm -r Homework/CS191
 
 # Task 5
 mkdir Programs/C++
@@ -25,7 +25,7 @@ mv Programs/Age.cpp Programs/C++
 
 
 # Task 7
-cp Programs/Java Homework/CS180/Project_1
+cp -r Programs/Java Homework/CS180/Project_1
 
 
 # Task 8
@@ -33,7 +33,7 @@ mv Programs/Count.c Programs/Goodbye.c Programs/C
 
 
 # Task 9
-mv Programs/name.py Programs/Space.py Programs/'Python 3'
+mv Programs/Name.py Programs/Space.py Programs/'Python 3'
 
 
 # Task 10
